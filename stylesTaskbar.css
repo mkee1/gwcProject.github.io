@@ -3,22 +3,22 @@ alright, here is ALL DA SHIT you need for the taskbar. plz don't touch it (besid
 *********************************************************************************************************************/
 
 h1 {
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Fjalla One', sans-serif;
     font-weight: normal;
     text-transform: uppercase;
-    line-height: 100px;
+    line-height: 55px;
     font-size: 45px;
   /*  margin: 0 0 23px 0; */
     }
 
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
 }
 
 
 p {
-    font-family: 'Raleway', sans-serif;
-    font-size: 17px;
+    font-family: 'Nanum Gothic', sans-serif;
+    zoom: 75%;
     line-height: 23px;
 
     margin-top: 40px;
@@ -36,13 +36,14 @@ div {
 .container {
   width: 80%;
   margin: 0 auto;
+  font-family: 'Nanum Gothic', sans-serif;
 }
 
 header {
   background: #97C9F5;
-  font-family: 'Cantarell', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
   font-weight: 700;
-  font-size: 20px;
+  font-size: 24px;
 }
 
 header::after {
