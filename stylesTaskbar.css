@@ -8,17 +8,19 @@ h1 {
     text-transform: uppercase;
     line-height: 55px;
     font-size: 45px;
+    color: #97C9F5;
   /*  margin: 0 0 23px 0; */
     }
 
 body {
   font-family: 'Nanum Gothic', sans-serif;
+  font-size: 35px;
 }
 
 
 p {
     font-family: 'Nanum Gothic', sans-serif;
-    zoom: 75%;
+    font-size: 25px;
     line-height: 23px;
 
     margin-top: 40px;
@@ -97,7 +99,7 @@ nav a::before {
 }
 
 nav a:hover::before {
-  width: 100%;
+  width: 150%;
 }
 
 
