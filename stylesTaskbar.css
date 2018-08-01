@@ -69,8 +69,8 @@ ul {
 img {
   float:right;
   margin-right:150px;
-  width:40%;
-  height:40%;
+  width:35%;
+  height:35%;
 }
 
 /* here the nonsense for the taskbar. Anything changed from this point onwards will affect the bar */
