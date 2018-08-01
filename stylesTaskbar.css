@@ -26,6 +26,14 @@ h3 {
 
 }
 
+h4{
+  margin-left: 120px;
+}
+
+h5{
+  margin-left: 150px;
+}
+
 
 body {
   font-family: 'Nanum Gothic', sans-serif;
@@ -136,16 +144,18 @@ nav a:hover::before {
   text-align: right;
 }
 
-.Information p{
-  margin: 8px;
-}
 
 .Information a{
   color: black;
   text-decoration: none;
 }
-.Information h3{
-  color: #4A93D5;
+
+.Information p{
+  margin-left: 180px;
+}
+
+.Information ul{
+  margin-left: 180px;
 }
 
   } /*final ending bracket*/
