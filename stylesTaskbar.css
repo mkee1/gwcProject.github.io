@@ -19,6 +19,14 @@ h2 {
 
 }
 
+h3 {
+  font-family: 'Fjalla One', sans-serif;
+  margin-left: 90px;
+  color: #4A93D5;
+
+}
+
+
 body {
   font-family: 'Nanum Gothic', sans-serif;
   font-size: 20px;
