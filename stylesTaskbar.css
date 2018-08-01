@@ -1,5 +1,5 @@
 /*********************************************************************************************************************
-alright, here is ALL DA SHIT you need for the taskbar. plz don't touch it (besides the colors and the fonts ofc)
+alright, here is ALL DA SHIT you need for the taskbar. you can edit most things (but not taskbar stuff)
 *********************************************************************************************************************/
 
 h1 {
@@ -8,9 +8,24 @@ h1 {
     text-transform: uppercase;
     line-height: 55px;
     font-size: 45px;
-    color: #97C9F5;
+    color:#4A93D5;
   /*  margin: 0 0 23px 0; */
     }
+
+h2 {
+  font-family: 'Fjalla One', sans-serif;
+  margin-left: 90px;
+  color: #4A93D5;
+
+}
+
+h3 {
+  font-family: 'Fjalla One', sans-serif;
+  margin-left: 90px;
+  color: #4A93D5;
+
+}
+
 
 body {
   font-family: 'Nanum Gothic', sans-serif;
@@ -30,6 +45,20 @@ p {
     margin-left: 90px;
     }
 
+ul {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 150px;
+  margin-left: 90px;
+
+  /* padding-top: 10px;  */
+}
+
+/* here the nonsense for the taskbar. Anything changed from this point onwards will affect the bar */
 
 div {
   padding-top: 15px;
@@ -83,14 +112,14 @@ nav a {
 }
 
 nav a:hover {
-  color: #000;
+  color: #4A93D5;
 }
 
 nav a::before {
   content: '';
   display: block;
   height: 5px;
-  background-color: #444;
+  background-color: #4A93D5;
 
   position: absolute;
   top: 0;
@@ -107,6 +136,13 @@ nav a:hover::before {
   text-align: right;
 }
 
+.Information p{
+  margin: 8px;
+}
 
+.Information a{
+  color: black;
+  text-decoration: none;
+}
 
   } /*final ending bracket*/
