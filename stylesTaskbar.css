@@ -13,6 +13,15 @@ h1 {
   /*  margin: 0 0 23px 0; */
     }
 
+.homePics {
+  max-width: 500px;
+  display: block;
+  margin-left: auo;
+  margin-right: auto;
+  width: 50%;
+  height: 50%; 
+}
+
 .header {
         background-color: #6FACE3;
         margin-bottom: 0px;
