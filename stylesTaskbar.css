@@ -85,6 +85,7 @@ img {
 }
 
 .homePagePics {
+  float:center;
   width:30%;
   height:30%;
 }
