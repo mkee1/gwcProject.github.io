@@ -19,7 +19,7 @@ h1 {
   margin-left: auo;
   margin-right: auto;
   width: 50%;
-  height: 50%; 
+  height: 50%;
 }
 
 .header {
@@ -31,9 +31,11 @@ h1 {
     }
 
 h2 {
+
+  margin-bottom: 30px;
   font-family: 'Fjalla One', sans-serif;
-  margin-left: 90px;
-  color: #4A93D5;
+  /* font-size: 25px; */
+  
 
 }
 
