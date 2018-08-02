@@ -10,6 +10,7 @@ h1 {
     font-size: 45px;
     color:#4A93D5;
 
+
   /*  margin: 0 0 23px 0; */
     }
 
@@ -41,6 +42,7 @@ body {
   font-family: 'Nanum Gothic', sans-serif;
   font-size: 20px;
   font-family: 'Nanum Gothic', sans-serif;
+  background-image: url("pastelsea.jpg");
 }
 
 
@@ -73,6 +75,15 @@ img {
   margin-right:150px;
   width:35%;
   height:35%;
+}
+
+.color {
+
+  margin-top: 40px;
+  margin-bottom: 10px;
+  margin-right: 150px;
+  margin-left: 150px;
+  background-color: white;
 }
 
 /* here the nonsense for the taskbar. Anything changed from this point onwards will affect the bar */
