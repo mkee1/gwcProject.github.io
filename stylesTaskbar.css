@@ -41,6 +41,7 @@ h4{
 
 h5{
   margin-left: 150px;
+  color: #6FAFE9;
 }
 
 
@@ -97,6 +98,31 @@ img {
   margin-right: 150px;
   margin-left: 150px;
   background-color: white;
+}
+
+/* Information Page Styling */
+.top {
+  text-align: right;
+}
+
+
+.Information a{
+  color: black;
+  text-decoration: none;
+}
+
+.Information p{
+  margin-left: 180px;
+
+}
+
+.Information ul{
+  margin-left: 180px;
+}
+
+.blueBar{
+  margin: 0, 0, 0, 0;
+  background-color: #97C9F5;
 }
 
 /* here the nonsense for the taskbar. Anything changed from this point onwards will affect the bar */
@@ -176,27 +202,5 @@ nav a:hover::before {
   width: 150%;
 }
 
-.top {
-  text-align: right;
-}
-
-
-.Information a{
-  color: black;
-  text-decoration: none;
-}
-
-.Information p{
-  margin-left: 180px;
-}
-
-.Information ul{
-  margin-left: 180px;
-}
-
-.blueBar{
-  margin: 0, 0, 0, 0;
-  background-color: #97C9F5;
-}
 
   } /*final ending bracket*/
