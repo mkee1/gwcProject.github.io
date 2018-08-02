@@ -9,6 +9,9 @@
     <link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
     <link href = 'stylesTaskbar.css' rel= 'stylesheet' >
     <script src="script.js" > </script>
+    <!--  -->
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> -->
 
     <title>Home -- ExtraOrdinary</title>
 
@@ -42,13 +45,43 @@
     <h3> Our Message: </h3>
   </p>
   <p>
-    <center>
+    <!-- <center>
     <img src="lilBoyArt.jpg" alt="Boy with Special Needs showing his drawing">
     <img src="fourSibs.jpg" alt="Special Needs boy and siblings together">
     <img src="girlAtComp.jpeg" alt="Special Needs girl at her computer">
     <img src="boySmiling.jpg" alt="Happy Boy smiling with Special Needs">
-    </center>
+    </center> -->
+  <!-- *********************************************************8 -->
+
+
+  <div class="w3-content w3-section" style="max-width:500px;display: block;margin-left: auto;margin-right: auto;width: 50%;height:50%">
+    <center>
+    <img class="mySlides w3-animate-fading" src="lilBoyArt.jpg" style="width:100%">
+    <img class="mySlides w3-animate-fading" src="fourSibs.jpg" style="width:100%">
+    <!-- <img class="mySlides w3-animate-fading" src="girlAtComp.jpeg" style="width:100%"> -->
+    <img class="mySlides w3-animate-fading" src="boySmiling.jpg" style="width:100%">
+  </center>
+  </div>
+
+  <script>
+  var myIndex = 0;
+  carousel();
+
+  function carousel() {
+      var i;
+      var x = document.getElementsByClassName("mySlides");
+      for (i = 0; i < x.length; i++) {
+         x[i].style.display = "none";
+      }
+      myIndex++;
+      if (myIndex > x.length) {myIndex = 1}
+      x[myIndex-1].style.display = "block";
+      setTimeout(carousel, 5000);
+  }
+  </script>
+  <br>
   </p>
+
   <p>
     ExtraOrdinary was designed to advocate, support, and provide resources for people with special needs in communities across the country. We also aim to combat the common false stereotypes and assumptions about people with disabilities and encourage peer interaction. In schools all across America, there are roughly 6.7 million students receiving special needs education. And according to the U.S. Census Bureau, nearly 1 in 5 Americans have a disability. Together, let’s be ambassadors and friends for all members of our community!
   </p>
