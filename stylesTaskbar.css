@@ -170,4 +170,9 @@ nav a:hover::before {
   margin-left: 180px;
 }
 
+.blueBar{
+  margin: 0, 0, 0, 0;
+  background-color: #97C9F5;
+}
+
   } /*final ending bracket*/
