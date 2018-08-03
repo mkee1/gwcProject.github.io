@@ -108,7 +108,6 @@ ul {
   margin-right: 150px;
   margin-left: 150px;
   background-color: white;
-
   padding-top: 0px;
 }
 
@@ -136,6 +135,13 @@ ul {
 
 .Information ul{
   margin-left: 180px;
+  color:#1a53af;
+  text-decoration-line:underline;
+}
+
+
+.Information2 ul{
+  margin-left: 180px;
 }
 
 .blueBar{
@@ -143,6 +149,15 @@ ul {
   background-color: #97C9F5;
 }
 
+mark{
+  background-color: #f4c6e2;
+}
+
+name {
+  font-size: 150%;
+}
+
+/* *************************************************************************************************** */
 /* here the nonsense for the taskbar. Anything changed from this point onwards will affect the bar */
 
 div {
@@ -185,6 +200,7 @@ header::after {
   content: '';
   display: table;
   clear: both;
+
 }
 
 .logo {
@@ -235,5 +251,4 @@ nav a:hover::before {
   width: 150%;
 }
 
-
-  } /*final ending bracket*/
+} /*final ending bracket*/
