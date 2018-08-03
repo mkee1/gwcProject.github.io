@@ -126,6 +126,11 @@ ul {
 
 .Information ul{
   margin-left: 180px;
+  text-decoration-line:underline;
+}
+
+.Information2 ul{
+  margin-left: 180px;
 }
 
 .blueBar{
@@ -137,6 +142,11 @@ mark{
   background-color: #f4c6e2;
 }
 
+name {
+  font-size: 150%;
+}
+
+/* *************************************************************************************************** */
 /* here the nonsense for the taskbar. Anything changed from this point onwards will affect the bar */
 
 div {
