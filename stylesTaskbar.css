@@ -133,6 +133,10 @@ ul {
   background-color: #97C9F5;
 }
 
+mark{
+  background-color: #f4c6e2;
+}
+
 /* here the nonsense for the taskbar. Anything changed from this point onwards will affect the bar */
 
 div {
