@@ -102,6 +102,12 @@ ul {
   padding-top: 0px;
 }
 
+#GamePic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /* Information Page Styling */
 .top {
   text-align: right;
@@ -145,12 +151,12 @@ div {
 
 
 .homePics {
-  max-width: 600px;
+  max-width: 500px;
   margin-left: auto;
   margin-right: auto;
   position:static;
-  width: 60%;
-  height: 60%;
+  width: 50%;
+  height: 50%;
   z-index:auto;
 }
 
