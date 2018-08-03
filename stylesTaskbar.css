@@ -145,12 +145,12 @@ div {
 
 
 .homePics {
-  max-width: 500px;
+  max-width: 600px;
   margin-left: auto;
   margin-right: auto;
   position:static;
-  width: 50%;
-  height: 50%;
+  width: 60%;
+  height: 60%;
   z-index:auto;
 }
 
