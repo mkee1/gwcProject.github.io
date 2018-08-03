@@ -157,6 +157,18 @@ name {
   font-size: 150%;
 }
 
+.people {
+  font-size:15px;
+  font-family: 'Nanum Gothic', sans-serif;
+  line-height: 30px;
+
+  margin-top: 20px;
+  margin-bottom: 15px;
+  margin-right: 150px;
+  margin-left: 100px;
+  padding-left: 55px;
+}
+
 /* *************************************************************************************************** */
 /* here the nonsense for the taskbar. Anything changed from this point onwards will affect the bar */
 
