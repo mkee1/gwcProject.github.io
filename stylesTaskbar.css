@@ -125,7 +125,7 @@ ul {
 
 .Information a{
   color: black;
-  text-decoration: none;
+  text-decoration-line: underline;
 }
 
 .Information p{
@@ -133,11 +133,11 @@ ul {
 
 }
 
-.Information ul{
+/* .Information ul{
   margin-left: 180px;
   color:#1a53af;
   text-decoration-line:underline;
-}
+} */
 
 
 .Information2 ul{
