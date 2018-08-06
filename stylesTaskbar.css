@@ -8,7 +8,9 @@ h1 {
     text-transform: uppercase;
     line-height: 50px;
     font-size: 45px;
-    color:#4A93D5;
+    color: #439ae8;
+    text-shadow: 1px 1px blue;
+
 
   /*  margin: 0 0 23px 0; */
     }
@@ -19,7 +21,7 @@ h1 {
   font-weight: normal;
   line-height: 150px;
   font-size: 100px;
-  color:#3b7eba;
+  color:#3d86c6;
   text-shadow: 1px 1px blue;
 }
 
@@ -74,12 +76,24 @@ p {
     font-family: 'Nanum Gothic', sans-serif;
     font-size: 20px;
     line-height: 30px;
+    text-indent:35px;
 
     margin-top: 20px;
     margin-bottom: 15px;
     margin-right: 150px;
     margin-left: 90px;
     }
+
+.left {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+
+  margin-top: 20px;
+  margin-bottom: 15px;
+  margin-right: 150px;
+  margin-left: 90px;
+}
 
 ul {
   font-family: 'Nanum Gothic', sans-serif;
