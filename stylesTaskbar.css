@@ -84,6 +84,17 @@ p {
     margin-left: 90px;
     }
 
+.left {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+
+  margin-top: 20px;
+  margin-bottom: 15px;
+  margin-right: 150px;
+  margin-left: 90px;
+}
+
 ul {
   font-family: 'Nanum Gothic', sans-serif;
   font-size: 20px;
