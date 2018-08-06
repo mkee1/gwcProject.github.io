@@ -138,6 +138,8 @@ ul {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width:70%;
+    height:60%;
 }
 
 /* Information Page Styling */
