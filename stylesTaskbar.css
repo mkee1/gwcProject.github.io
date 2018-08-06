@@ -20,7 +20,7 @@ h1 {
   line-height: 150px;
   font-size: 100px;
   color:#4A93D5;
-
+  text-shadow: 1px 1px blue;
 }
 
 .header {
