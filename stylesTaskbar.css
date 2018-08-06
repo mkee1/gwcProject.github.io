@@ -96,12 +96,14 @@ ul {
 
 .infoPics {
   float:right;
-  margin-right: 165px;
+  margin-right: 160px;
   width:40%;
   height:40%;
-  padding-left: 55px;
-
+  padding-left: 60px;
+  padding-top:50px;
+  padding-bottom:50px;
 }
+
 
 .color {
 
