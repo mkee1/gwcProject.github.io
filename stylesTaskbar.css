@@ -187,6 +187,9 @@ name {
   padding-left: 55px;
   text-align: center;
 }
+.subBullet {
+  margin-left: 180px;
+}
 
 /* *************************************************************************************************** */
 /* here the nonsense for the taskbar. Anything changed from this point onwards will affect the bar */
