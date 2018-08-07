@@ -26,7 +26,7 @@ h1 {
   color:#3d86c6;
   text-shadow: 1px 1px blue;
   text-align: center;
-  padding-left: 80px; 
+  padding-left: 80px;
 }
 
 .header {
@@ -59,25 +59,24 @@ h3 {
 
 h4{
   margin-left: 120px;
-  font-size: 150%;
+  font-size: 170%;
 }
 
 h5{
-  font-size:90%;
+  font-size: 130%;
   margin-left: 150px;
   color: #6FAFE9;
 }
 
 
 body {
-
   background-image: url("3704.jpg");
 }
 
 
 p {
     font-family: 'Nanum Gothic', sans-serif;
-    font-size: 20px;
+    font-size: 130%;
     line-height: 30px;
     /* text-indent:35px; */
     /* sorry, i didn't really like the indent... change it back if you want XD */
