@@ -170,8 +170,9 @@ mark{
   background-color: #f4c6e2;
 }
 
-name {
-
+iframe{
+  background-color: transparent;
+  border: none;
 }
 
 .people {
@@ -235,7 +236,7 @@ header {
   position: sticky;
   top: 0;
   z-index:4;
-  padding-bottom: 15px; 
+  padding-bottom: 15px;
 }
 
 header::after {
