@@ -50,7 +50,8 @@ h3 {
   font-family: 'Fjalla One', sans-serif;
 
   color: #4A93D5;
-  padding-left: 130px;
+  padding-left: 90px;
+  text-indent: 0;
   /* padding-top: 100px; */
 }
 
@@ -79,13 +80,14 @@ p {
     font-family: 'Nanum Gothic', sans-serif;
     font-size: 20px;
     line-height: 30px;
-    text-indent:35px;
+    /* text-indent:35px; */
+    /* sorry, i didn't really like the indent... change it back if you want XD */
 
     margin-top: 20px;
     margin-bottom: 15px;
     margin-right: 150px;
     margin-left: 90px;
-    text-indent: 0; 
+    text-indent: 0;
     }
 
 .noTab {
