@@ -11,7 +11,7 @@ h1 {
     color: #439ae8;
     text-shadow: 1px 1px blue;
     text-align: center;
-    padding-left: 55px; 
+    padding-left: 55px;
 
 
   /*  margin: 0 0 23px 0; */
@@ -26,6 +26,7 @@ h1 {
   color:#3d86c6;
   text-shadow: 1px 1px blue;
   text-align: center;
+  padding-left: 80px; 
 }
 
 .header {
